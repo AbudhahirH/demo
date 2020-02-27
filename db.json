@@ -8,24 +8,6 @@
        "email": "john@gmail.com",
        "phoneNumber": 9856472135,
        "passportNumber": "L4223158" 
-    },
-    { "id": 2,
-       "firstName": "Ram",
-       "lastName": "Sundar",
-       "age": 28,
-       "gender": "Male",
-       "email": "ram@gmail.com",
-       "phoneNumber": 8956474579,
-       "passportNumber": "T4893958" 
-    },
-    { "id": 3,
-       "firstName": "Ragavi",
-       "lastName": "",
-       "age": 40,
-       "gender": "Female",
-       "email": "ragavi@gmail.com",
-       "phoneNumber": 7548962153,
-       "passportNumber": "Q800158" 
     }
   ]
 }
